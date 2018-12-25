@@ -17,3 +17,7 @@ __粗体__
 ___粗斜体___
 
 '<hello,world>'
+
+'''
+printf("hello\n");
+'''
