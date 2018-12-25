@@ -16,7 +16,7 @@ __粗体__
 ***粗斜体***  
 ___粗斜体___  
 
-'<hello,world>'  
+<hello,world>  
 
 '''  
 printf("hello\n");  
